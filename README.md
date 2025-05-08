@@ -1,4 +1,4 @@
-# ChatGPT using Artificial Intelligence
+# Generative AI Chatbot using Artificial Intelligence
 
 This is a simple chat-based question-answering system powered by OpenAI's GPT-3.5 Turbo model. The project allows users to input questions, and the AI model responds with relevant answers.
 
